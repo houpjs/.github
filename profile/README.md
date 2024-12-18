@@ -1,5 +1,5 @@
 ## Houp
-Houp can make you share state among multiple components in react.
+Houp is a simple, fast, and reliable solution for sharing state across multiple components. 
 <!--
 
 **Here are some ideas to get you started:**
